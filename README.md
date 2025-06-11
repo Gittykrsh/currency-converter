@@ -9,7 +9,6 @@ A simple and intuitive Currency Converter built using Python. This project allow
 
 - **Project Type**: Desktop Utility
 - **Tech Stack**: Python, Tkinter (for GUI), Fixer API (for real-time rates)
-- **Level**: Beginner to Intermediate
 
 ---
 
