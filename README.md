@@ -20,7 +20,7 @@ A simple and intuitive Currency Converter built using Python. This project allow
 |----------------------|-----|-----|
 | Convert currency     | ✅  | ✅  |
 | Show converted value | ✅  | ✅  |
-| Full-form dropdowns  | ❌  | ✅  |
+| Full-form dropdowns  | ✅  | ✅  |
 | Live API support     | ✅  | ✅  |
 | Static fallback rates| ✅  | ✅  |
 
