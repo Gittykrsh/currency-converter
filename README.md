@@ -24,6 +24,12 @@ A simple and intuitive Currency Converter built using Python. This project allow
 
 ---
 
+## 🖥️ GUI Preview
+
+![Preview](https://github.com/user-attachments/assets/5e1cbc26-f290-43de-9548-826a9deb43f1)
+
+---
+
 ## 🚀 How to Run (GUI)
 
 ### ✅ Prerequisites:
