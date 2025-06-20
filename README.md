@@ -33,6 +33,7 @@ A simple and intuitive Currency Converter built using Python. This project allow
 ## 🚀 How to Run (GUI)
 
 ### ✅ Prerequisites:
+
 - Python 3.x
 - Install required modules:
 ```bash
@@ -40,6 +41,7 @@ pip install requests python-dotenv
 ```
 
 ### 🔧 Fixer API Setup:
+
 1. Create a `.env` file in the project root.
 2. Add the line:
 ```bash
@@ -47,6 +49,7 @@ FIXER_API_KEY=your_api_key_here
 ```
 
 ### ▶️ Run GUI:
+
 ```bash
 python currency_converter.py
 ```
@@ -68,6 +71,7 @@ Press Q to quit.
 ```
 
 ### Example:
+
 ```
 Input: 100 USD INR
 Output: 100 of currency USD amounts to 8250.0 of currency INR today
@@ -87,6 +91,7 @@ currency_converter/
 ---
 
 ## 🧠 Concepts Practiced
+
 - File I/O
 - REST API (Fixer)
 - Tkinter GUI
@@ -96,6 +101,7 @@ currency_converter/
 ---
 
 ## ✨ Add-On Suggestions
+
 - Add currency flags next to dropdown items in GUI
 - Support for currency history (last 7 days)
 - Add currency chart using matplotlib
@@ -104,6 +110,7 @@ currency_converter/
 ---
 
 ## 📃 License
+
 This project is open-source and free to use for learning or demo purposes.
 
 ---
